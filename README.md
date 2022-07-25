@@ -127,9 +127,9 @@ This is an example of how to list things you need to use the software and how to
    npm install
    ```
 4. Enter 
-    '''sh 
+    ```sh 
     npm start
-    '''
+    ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
