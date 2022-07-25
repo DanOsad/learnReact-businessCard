@@ -120,7 +120,7 @@ This is an example of how to list things you need to use the software and how to
 <!-- 1. Get a free API Key at [https://etherscan.io/](https://etherscan.io/apis) -->
 1. Clone the repo
    ```sh
-   git clone https://github.com/DanOsad/Ethereum-Waller-API.git
+   git clone https://github.com/DanOsad/learnReact-businessCard.git
    ```
 2. Install NPM packages
    ```sh
